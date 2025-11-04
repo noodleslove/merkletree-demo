@@ -1,0 +1,12 @@
+{
+  "root": "0b41454af0d0b0898a9e8a71bdbe7fbab77ff54721a5446a406746a1ec6dcd04",
+  "files": {
+    "README.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "a.txt": "a948904f2f0f479b8f8197694b30184b0d2ed1c1cd2a1ec0fb85d299a192a447",
+    "git-merkle-tree.sh": "bd11043adcc38166de1fad430258c015882c5e490157bc849acf837512678c72",
+    "merkle_tree.py": "f0c720a07843b149efe06faa3e4e8af489590fc809828109a939a09ea110ab45",
+    "snapshot.json": "b50884eceeff248437359c6be0b85ab24ebca3fc1a6b5098e25c76069c0729f2",
+    "tests/b.txt": "ecf701f727d9e2d77c4aa49ac6fbbcc997278aca010bddeeb961c10cf54d435a",
+    "tests/h.txt": "8f434346648f6b96df89dda901c5176b10a6d83961dd3c1ac88b59b2dc327aa4"
+  }
+}
